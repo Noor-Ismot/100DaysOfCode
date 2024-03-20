@@ -25,3 +25,14 @@ Progress:
 
   
 Next Steps: Excited to continue exploring Python and taking on more coding challenges!
+
+# Day 2 of #100DaysOfCode
+Progress: Explored if-else and elif conditions for decision-making in Python, delved into Python 3.10's match case feature for pattern matching, and solved a problem related to conditions.
+Next Steps: Continuing to deepen understanding of control flow and exploring more advanced Python features.
+
+![image](https://github.com/Noor-Ismot/100DaysOfCode/assets/108386306/09db6f17-349d-4ca4-a976-34f2d9c8ec91)
+
+
+
+  
+Next Steps: Excited to continue exploring Python and taking on more coding challenges! Happy Coding 🎉📈
