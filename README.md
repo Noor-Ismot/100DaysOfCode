@@ -30,9 +30,17 @@ Next Steps: Excited to continue exploring Python and taking on more coding chall
 Progress: Explored if-else and elif conditions for decision-making in Python, delved into Python 3.10's match case feature for pattern matching, and solved a problem related to conditions.
 Next Steps: Continuing to deepen understanding of control flow and exploring more advanced Python features.
 
+
 ![image](https://github.com/Noor-Ismot/100DaysOfCode/assets/108386306/09db6f17-349d-4ca4-a976-34f2d9c8ec91)
 
 
 
   
 Next Steps: Excited to continue exploring Python and taking on more coding challenges! Happy Coding 🎉📈
+
+# Day 3 of #100DaysOfCode
+Progress: Explored for loops for repetitive tasks and nested loops for complex iterations in Python. Currently tackling the nth Fibonacci number problem.
+
+![image](https://github.com/Noor-Ismot/100DaysOfCode/assets/108386306/4d5cfe89-6b20-4d3e-b520-51d7e3176519)
+
+Next Steps: Continue working on the Fibonacci problem and dive deeper into other basic topics.
