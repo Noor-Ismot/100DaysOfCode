@@ -53,6 +53,6 @@ Progress: Explored while loops for iterative tasks with unknown iterations and l
 # Day 5 of #100DaysOfCode
 Progress: Explored time complexity and Big O notation, and solved coding challenges testing function definition and argument passing in Python.<br>
 
-![image](/Day5.pngDay5.png)
+![image](/Day5.png)
 
 Next Steps: Explored Space complexity and more problem solving. 🎉📈
