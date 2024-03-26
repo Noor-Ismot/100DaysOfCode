@@ -49,3 +49,10 @@ Next Steps: Continue working on the Fibonacci problem and dive deeper into other
 Progress: Explored while loops for iterative tasks with unknown iterations and learned about break and continue statements for loop control. In addition, solved a problem involving summing even and odd digits of an integer.<br>
 
 ![image](/Day4.png)
+
+# Day 5 of #100DaysOfCode
+Progress: Explored time complexity and Big O notation, and solved coding challenges testing function definition and argument passing in Python.<br>
+
+![image](/Day5.pngDay5.png)
+
+Next Steps: Explored Space complexity and more problem solving. 🎉📈
