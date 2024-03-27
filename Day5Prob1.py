@@ -22,6 +22,9 @@ Define a function named "Maximum" that accepts two integers (pass by value) as a
 Coding Challenge -2
 Define a function named "Swap" that accepts two integers (pass by reference) as arguments and swaps their value.
 '''
+
+#My solution
+'''
 def maximum(a,b):
     if a>b:
         return a
@@ -45,3 +48,29 @@ if challenge ==1 :
 else:
     x, y = swap(x,y)
     print(x,y)
+'''
+
+'''
+In Python, you can't directly pass arguments by reference. However, you can achieve a similar effect by passing mutable objects like lists. Here's how you can implement the swap function
+'''
+
+def maximum(a,b):
+    return max(a,b)
+    
+def swap(aList):
+ aList[0], aList[1] = aList[1], aList[0]
+ return aList[0], aList[1]
+
+challenge = int(input())
+x, y= input().split()
+x = int(x)
+y= int(y)
+
+if challenge ==1 :
+    print(maximum(x,y))
+
+else:
+    numList = [x,y]
+    swap(numList)
+    print(numList[0], numList[1])
+
