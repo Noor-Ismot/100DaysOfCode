@@ -56,3 +56,10 @@ Progress: Explored time complexity and Big O notation, and solved coding challen
 ![image](/Day5.png)
 
 Next Steps: Explored Space complexity and more problem solving. 🎉📈
+
+# Day 6 of #100DaysOfCode
+Progress: Explored space complexity and its representation using Big O notation, and discussed "pass by value" vs. "pass by reference" in function arguments. Revised the solution to a previous problem to correctly demonstrate "pass by reference" in Python.<br>
+
+![image](/Day6.png)
+
+#100DaysOfCode #Day6 #pythoncoding
