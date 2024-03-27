@@ -11,7 +11,7 @@ Goals
 - Expand my knowledge of software development concepts and tools.
   
 # Connect with Me?
-Let's connect and support each other on this coding journey! Feel free to reach out on Twitter or LinkedIn to share experiences, exchange tips, or collaborate on projects.
+Let's connect and support each other on this coding journey! Feel free to reach out on [Twitter](https://twitter.com/noor_ismot) or [LinkedIn](https://www.linkedin.com/in/noor10/) to share experiences, exchange tips, or collaborate on projects.
 
 # Day 1 of #100DaysOfCode
 Progress: 
